@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
+  <!-- XACT Diagnotek Logo -->
+  <style>
+    .text-primary { fill: #0066cc; }
+    .text-secondary { fill: #333333; }
+    .heartbeat { fill: #ff3333; }
+  </style>
+  <!-- X -->
+  <path class="text-primary" d="M30,15 L45,35 L30,55 L40,55 L50,40 L60,55 L70,55 L55,35 L70,15 L60,15 L50,30 L40,15 Z"/>
+  <!-- A -->
+  <path class="text-primary" d="M80,55 L90,55 L105,15 L95,15 L87.5,35 L80,15 L70,15 Z M77.5,40 L97.5,40 L95,45 L80,45 Z"/>
+  <!-- C -->
+  <path class="text-primary" d="M115,15 C105,15 100,25 100,35 C100,45 105,55 115,55 C120,55 125,52.5 127.5,47.5 L120,42.5 C118.75,45 117.5,46.25 115,46.25 C110,46.25 108.75,40 108.75,35 C108.75,30 110,23.75 115,23.75 C117.5,23.75 118.75,25 120,27.5 L127.5,22.5 C125,17.5 120,15 115,15 Z"/>
+  <!-- T -->
+  <path class="text-primary" d="M130,15 L130,23.75 L140,23.75 L140,55 L150,55 L150,23.75 L160,23.75 L160,15 Z"/>
+  
+  <!-- Diagnotek -->
+  <path class="text-secondary" d="M170,25 L180,25 C190,25 195,30 195,35 C195,40 190,45 180,45 L170,45 Z M170,20 L170,50 L180,50 C192.5,50 200,42.5 200,35 C200,27.5 192.5,20 180,20 Z"/>
+  <path class="text-secondary" d="M205,20 L205,50 L210,50 L210,20 Z"/>
+  <path class="text-secondary" d="M215,20 L220,20 L220,45 L235,45 L235,50 L215,50 Z"/>
+  <path class="text-secondary" d="M240,20 L245,20 L260,40 L260,20 L265,20 L265,50 L260,50 L245,30 L245,50 L240,50 Z"/>
+  <path class="text-secondary" d="M270,20 L290,20 C295,20 300,25 300,30 C300,35 295,40 290,40 L275,40 L275,50 L270,50 Z M275,25 L275,35 L290,35 C292.5,35 295,32.5 295,30 C295,27.5 292.5,25 290,25 Z"/>
+  <path class="text-secondary" d="M170,55 L175,55 L175,65 L170,65 Z"/>
+  <path class="text-secondary" d="M180,55 L195,55 L195,60 L185,60 L185,65 L180,65 Z"/>
+  <path class="text-secondary" d="M200,55 L205,55 L205,65 L200,65 Z"/>
+  
+  <!-- Heartbeat Line -->
+  <path class="heartbeat" d="M15,35 L25,35 L30,25 L35,45 L40,15 L45,55 L50,30 L55,35 L65,35" stroke="#ff3333" stroke-width="2" fill="none"/>
+  
+  <!-- Circle Element -->
+  <circle cx="15" cy="35" r="10" fill="#0066cc" opacity="0.7"/>
+</svg>
